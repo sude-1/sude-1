@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sude-1
-- 👀 I’m interested in AI and Game Developing
-- 🌱 I’m currently learning C# and Kotlin
+- 👀 I’m interested in AI and Web Developing
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haticesudekorucu@gmail.com
 
